@@ -7,7 +7,7 @@
 | 202017129 | Rodrigo de Andrade Lima Orlandi |  
 
 ## Descrição do projeto
-Foram selecionados quatro desafios de nível médio ou difícil na plataforma LeetCode, sendo que cada membro da dupla ficou responsável por resolver dois desafios.
+Foram selecionados quatro questões de nível médio ou difícil nas plataformas LeetCode e Beecrowd, sendo que cada membro da dupla ficou responsável por resolver duas questões.
 
 ## Questões
 | Fonte | Questão | Dificuldade | Autor |

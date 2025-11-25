@@ -6,3 +6,10 @@
 | 211029512 | Laís Cecília Soares Paes |  
 | 202017129 | Rodrigo de Andrade Lima Orlandi |  
 
+## Questões
+| Fonte | Questão | Dificuldade | Autor |
+|-------|---------|-------------|-------|
+| LeetCode| [785 - Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/) | Médio | Laís
+| LeetCode| [685 - Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/description/) | Difícil | Laís
+| LeetCode| []() | --- | Rodrigo
+| Beecrowd| []() | --- | Rodrigo

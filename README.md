@@ -15,11 +15,11 @@
 
 ## Screenshots
 
-### IS Graph Bipartite?
-[](imagens/785.png)
+### Is Graph Bipartite?
+[](assets/785.png)
 
 ### Redundant Connection II
-[](imagens/685.png)
+[](assets/685.png)
 
 ### Fibra Óptica
-[](imagens/.png)
+[](assets/.png)

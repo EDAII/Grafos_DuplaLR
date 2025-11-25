@@ -12,3 +12,14 @@
 | LeetCode| [785 - Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/) | Médio | Laís
 | LeetCode| [685 - Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/description/) | Difícil | Laís
 | Beecrowd| [1270 - Fibra Óptica](https://judge.beecrowd.com/pt/problems/view/1270) | Difícil | Rodrigo
+
+## Screenshots
+
+### IS Graph Bipartite?
+[](imagens/785.png)
+
+### Redundant Connection II
+[](imagens/685.png)
+
+### Fibra Óptica
+[](imagens/.png)

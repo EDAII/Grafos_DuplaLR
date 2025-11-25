@@ -11,5 +11,4 @@
 |-------|---------|-------------|-------|
 | LeetCode| [785 - Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/) | Médio | Laís
 | LeetCode| [685 - Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/description/) | Difícil | Laís
-| LeetCode| []() | --- | Rodrigo
 | Beecrowd| []() | --- | Rodrigo

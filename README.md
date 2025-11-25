@@ -24,5 +24,5 @@ Foram selecionados quatro questões de nível médio ou difícil nas plataformas
 ### Redundant Connection II
 ![2](./assets/IMG_20251124_215918.jpg)
 
-### Fibra Óptica
-![3](assets/.png)
+### Fibra Óptica?
+![3](./assets/proof.png)

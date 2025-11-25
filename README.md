@@ -6,6 +6,9 @@
 | 211029512 | Laís Cecília Soares Paes |  
 | 202017129 | Rodrigo de Andrade Lima Orlandi |  
 
+## Descrição do projeto
+Foram selecionados quatro desafios de nível médio ou difícil na plataforma LeetCode, sendo que cada membro da dupla ficou responsável por resolver dois desafios.
+
 ## Questões
 | Fonte | Questão | Dificuldade | Autor |
 |-------|---------|-------------|-------|

@@ -19,10 +19,10 @@ Foram selecionados quatro questões de nível médio ou difícil nas plataformas
 ## Screenshots
 
 ### Is Graph Bipartite?
-![1](assets/785.jpeg)
+![1](./assets/IMG_20251124_215852.jpg)
 
 ### Redundant Connection II
-![2](assets/685.jpeg)
+![2](./assets/IMG_20251124_215918.jpg)
 
 ### Fibra Óptica
 ![3](assets/.png)

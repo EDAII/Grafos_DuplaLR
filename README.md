@@ -16,10 +16,10 @@
 ## Screenshots
 
 ### Is Graph Bipartite?
-![1](assets/785.png)
+![1](assets/785.jpeg)
 
 ### Redundant Connection II
-![2](assets/685.png)
+![2](assets/685.jpeg)
 
 ### Fibra Óptica
 ![3](assets/.png)
